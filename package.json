@@ -1,0 +1,25 @@
+{
+  "name": "webinjaz-sass",
+  "version": "1.0.0",
+  "description": "Sass webinjaz framework",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wael-Zoaiter/webinjaz-sass.git"
+  },
+  "keywords": [
+    "sass",
+    "webinjaz",
+    "css",
+    "framework"
+  ],
+  "author": "webinjaz.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wael-Zoaiter/webinjaz-sass/issues"
+  },
+  "homepage": "https://github.com/Wael-Zoaiter/webinjaz-sass#readme"
+}
